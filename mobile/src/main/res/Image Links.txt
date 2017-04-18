@@ -1,0 +1,6 @@
+Walking Icon: https://icons8.com/web-app/2243/walking
+Heart Icon: https://icons8.com/web-app/35583/heart-with-pulse#filled
+Vehicle: https://icons8.com/web-app/24745/4x4-vehicle#filled
+Running: https://icons8.com/web-app/916/running#filled
+Cycling: https://icons8.com/web-app/2063/cycling-road#filled
+Sitting: https://icons8.com/web-app/4340/counselor

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ContextAwarenessCore</string>
+    <string name="title_activity_wear__context">Wear_Context</string>
+    <string name="hello_round">Getting HeartRate...</string>
+    <string name="hello_square">Getting HeartRate...</string>
+</resources>

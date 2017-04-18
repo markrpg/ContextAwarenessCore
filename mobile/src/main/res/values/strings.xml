@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ContextAwarenessCore</string>
+    <string name="title_activity_main">Context Awareness Core</string>
+    <string name="service_title">Context Awareness Core</string>
+</resources>
